@@ -38,3 +38,7 @@ source /usr/local/bin/virtualenvwrapper.sh
 4. Activate de virtualenvironment `workon project_name``
 5. `pip install Django==2.1.1`
 
+### Usage
+1. After activation of venv you need to go to the folder with the manage.py file, in this case django_polls_project/polls_project
+2. Run `python manage.py runserver`
+3. Go to http://127.0.0.1:8000/polls/ to see the last 5 questions
