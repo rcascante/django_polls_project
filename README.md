@@ -1,6 +1,11 @@
-# DJANGO POLLS
+# DJANGO POLLS PROJECT
 
 Replication of polls following the instructions written in https://docs.djangoproject.com/en/2.1/intro/tutorial01/
+
+It consist of two parts:
+
+- A public site that lets people view polls and vote in them.
+- An admin site that lets you add, change, and delete polls.
 
 ## Table of Contents
 1. Implementation
@@ -31,3 +36,4 @@ source /usr/local/bin/virtualenvwrapper.sh
 3. Create virtualenvironment `mkvirtualenv -a project_name -p python3 project_name`
 4. Activate de virtualenvironment `workon project_name``
 5. `pip install Django==2.1.1`
+
