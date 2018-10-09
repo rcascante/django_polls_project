@@ -12,8 +12,9 @@ It consist of two parts:
 
 ## Implementation
 ### Dependencies
-1. Django 2.1.1
-2. ipdb
+1. virtualenvironment
+2. virtualenvwrapper
+3. Django 2.1.1
 
 ## Instalation 
 ### Installation  virtualenvironment and virtualenvwrapper
